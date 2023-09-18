@@ -1,2 +1,4 @@
 # USSD-Simulator
-A Java program used to simulate USSD actions for a Network Service Provider.
+A Java software program that mimics the behavior of a USSD gateway and simulates USSD interactions for a Network Service Provider in a telecommunication network.
+
+
